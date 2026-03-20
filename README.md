@@ -166,6 +166,8 @@ Step 4:
 
 ## Demo Video
 https://drive.google.com/file/d/1nQfsBQkL6W-AnZVfEeELHKcvwMt0ZJHX/view?usp=sharing
+## Prototype link
+https://www.figma.com/make/5zjlbBLLxsJ79owwVgygIO/SmartInsure-Website-Design?t=8Sj6KYiB2wPfc833-0
 ---
 
 ## Conclusion
